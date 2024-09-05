@@ -4,12 +4,13 @@ Welcome to the IPC mobile app project repository! This organization contains the
 
 ## Team Information
 
-- **Project Sponsor:** [Sponsor’s Name]
+- **Project Sponsor:** IPCRX
+- **Project Sponsor Name:** Dan Lenz
 - **Student Team Members:**  
-  - [Member 1]  
-  - [Member 2]  
-  - [Member 3]  
-  - [Member 4]
+  - Austin Tsow  
+  - Manny Uzoma  
+  - Yijia Chen  
+  - Yi Lu
 
 ## Project Scope and Requirements
 
